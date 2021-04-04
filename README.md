@@ -15,4 +15,4 @@ Create data visuals with Leafleat Javascript and Mapbox styling to map out the l
   
 ## Summary  
 An interactive data map was designed to visualize the areas where earthquakes appear with comparison to the tectonic plates. The magitudes are shown in the color and size as well as a popup box with magnitude information. Data was extracted from earthquake.usgs.gov and githubusercontent.com.  
-![Resources/EQ_map.PNG](Resources/EQ_map.PNG)  
+![Earthquake_Challenge/Resources/EQ_map.PNG](Earthquake_Challenge/Resources/EQ_map.PNG)  
